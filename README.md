@@ -10,6 +10,6 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,ts,nodejs,react,nextjs,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,ts,nodejs,react,firebase)](https://skillicons.dev)
   
 
