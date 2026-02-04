@@ -1,15 +1,15 @@
-<h5 align="left">Meu nome é Daniel da Silva Azevedo, do Brasil. <br>
-  Atualmente estou aprendendo Desenvolvimento de Sistema na ETEC Professor Camargo Aranha.</h5>
+# 👋 Olá! Sou o Daniel
+Desenvolvedor Fullstack em formação | JavaScript, Node.js, TypeScript, Expo & React
 
-###
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielAzeved0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielAzeved0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+🎯 Estou focado em construir aplicações completas e entrar no mercado como Dev Júnior  
+💻 Desenvolvimento backend APIs, aplicações mobile com Expo, deploy e infra
 
-</div>
+## 🔧 Tech Stack
+- **Backend:** Node.js, TypeScript
+- **Frontend:** React, Expo
+- **Banco de dados:** Firebase / NoSQL
+- **DevOps basics:** Docker, GitHub Actions (em estudo)
 
-###
-
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,nodejs,react,firebase)](https://skillicons.dev)
-  
-
+## 🔗 Projetos em destaque
+- **Simpliza-TCC** — app mobile completo com backend  
+- **portfolio-daniel-azevedo** — portfólio pessoal
