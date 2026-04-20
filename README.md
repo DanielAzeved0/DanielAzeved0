@@ -7,7 +7,7 @@ Desenvolvedor Fullstack em formação | JavaScript, Node.js, TypeScript, Expo, R
 ## 🔧 Tech Stack
 - **Backend:** Node.js, TypeScript, C#, .NET
 - **Frontend:** React, Expo
-- **Banco de dados:** Firebase / NoSQL, PostgreSQL / Relacional
+- **Banco de dados:** Firebase / NoSQL, PostgreSQL, MySQL / Relacional
 - **DevOps basics:** Docker, GitHub Actions 
 
 ## 🔗 Projetos em destaque
