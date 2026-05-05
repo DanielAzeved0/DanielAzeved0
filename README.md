@@ -12,5 +12,6 @@ Desenvolvedor Fullstack em formação | JavaScript, Node.js, TypeScript, Expo, R
 
 ## 🔗 Projetos em destaque
 - **Simpliza-TCC** — app mobile completo com backend  
-- **portfolio-daniel-azevedo** — portfólio pessoal
 - **DeepArchive-Bridge** — aplicação feita em C#
+- **MCP Task Manager** — mcp para gerenciamento de tarefas
+- **portfolio-daniel-azevedo** — portfólio pessoal
