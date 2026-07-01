@@ -5,10 +5,10 @@ Desenvolvedor Fullstack em formação | JavaScript, Node.js, TypeScript, Expo, R
 💻 Desenvolvimento backend APIs, aplicações mobile com Expo, deploy e infra 
 
 ## 🔧 Tech Stack
-- **Backend:** Node.js, TypeScript, C#, .NET
+- **Backend:** Node.js, TypeScript, C#, .NET, Python, Django 
 - **Frontend:** React, Expo
-- **Banco de dados:** Firebase / NoSQL, PostgreSQL, MySQL / Relacional
-- **DevOps basics:** Docker, GitHub Actions 
+- **Banco de dados:** Firebase / NoSQL,  Relacional / PostgreSQL, MySQL
+- **DevOps:** Docker, GitHub Actions 
 
 ## 🔗 Projetos em destaque
 - **Simpliza-TCC** — app mobile completo com backend  
