@@ -1,17 +1,88 @@
-# 👋 Olá! Sou o Daniel
-Desenvolvedor Fullstack em formação | JavaScript, Node.js, TypeScript, Expo, React & C#
+# 👋 Olá! Eu sou Daniel Azevedo
 
-🎯 Estou focado em construir aplicações completas e entrar no mercado como Dev Júnior  
-💻 Desenvolvimento backend APIs, aplicações mobile com Expo, deploy e infra 
+💻 Desenvolvedor Full Stack | Infraestrutura de TI | Automação | Inteligência Artificial
 
-## 🔧 Tech Stack
-- **Backend:** Node.js, TypeScript, C#, .NET, Python, Django 
-- **Frontend:** React, Expo
-- **Banco de dados:** Firebase / NoSQL,  Relacional / PostgreSQL, MySQL
-- **DevOps:** Docker, GitHub Actions 
+Sou estudante de Ciência da Computação e Técnico em Desenvolvimento de Sistemas, apaixonado por tecnologia, desenvolvimento de software e infraestrutura.
 
-## 🔗 Projetos em destaque
-- **Simpliza-TCC** — app mobile completo com backend  
-- **DeepArchive-Bridge** — aplicação feita em C#
-- **MCP Task Manager** — mcp para gerenciamento de tarefas
-- **portfolio-daniel-azevedo** — portfólio pessoal
+Atualmente atuo como **Técnico de Suporte N1 - Deployment** na Penso Tecnologia e também como **Analista de Infraestrutura de TI** na Inovah Plast, desenvolvendo soluções para automação, monitoramento e sustentação de ambientes corporativos.
+
+Meu objetivo é construir soluções modernas, escaláveis e inteligentes, unindo desenvolvimento, infraestrutura e IA.
+
+---
+
+# 🚀 Tecnologias
+
+### Desenvolvimento
+- JavaScript
+- TypeScript
+- Node.js
+- React
+- React Native
+- Expo
+- C#
+- .NET
+- Python
+
+### Banco de Dados
+- Firebase
+- PostgreSQL
+- MySQL
+
+### Infraestrutura
+- Windows Server
+- Linux
+- Microsoft 365
+- Active Directory
+- TCP/IP
+- DNS
+- VLAN
+- IPv6
+- OneDrive Empresarial
+
+### DevOps & Ferramentas
+- Git
+- GitHub
+- Docker
+- GitHub Actions
+- Grafana
+- Prometheus
+- PowerShell
+- Shell Script
+
+---
+
+# ⭐ Projetos em Destaque
+
+## MCP Task Manager
+Plataforma inteligente baseada em IA para geração e análise de especificações utilizando TypeScript, arquitetura modular, integração com LLMs, análise semântica e automação de fluxos.
+
+## Simpliza
+Aplicativo Full Stack desenvolvido em React Native e Firebase para gestão financeira de MEIs e pequenos empreendedores.
+
+## DeepArchive Bridge
+Sistema Full Stack desenvolvido com .NET 8 e Next.js para gerenciamento inteligente de vendas utilizando estratégia Hot/Cold Storage.
+
+## Portfólio
+Meu portfólio pessoal reunindo projetos, experiências e tecnologias.
+
+---
+
+# 🎯 Atualmente estudando
+
+- Arquitetura de Software
+- Inteligência Artificial
+- DevOps
+- Docker
+- ASP.NET Core
+- Segurança da Informação
+- Cloud Computing
+
+---
+
+# 📫 Contato
+
+💼 LinkedIn
+www.linkedin.com/in/daniel-azevedo-403444321/
+
+🌐 Portfólio
+https://portfolio-daniel-azevedo-q5qi.vercel.app/
