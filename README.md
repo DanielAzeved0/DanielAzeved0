@@ -10,7 +10,7 @@ Meu objetivo é construir soluções modernas, escaláveis e inteligentes, unind
 
 ---
 
-# 🚀 Tecnologias
+# Tecnologias
 
 ### Desenvolvimento
  JavaScript | TypeScript | Node.js | React | React Native | Expo | C# .NET | Python
