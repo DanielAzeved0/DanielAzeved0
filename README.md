@@ -13,31 +13,13 @@ Meu objetivo é construir soluções modernas, escaláveis e inteligentes, unind
 # 🚀 Tecnologias
 
 ### Desenvolvimento
-- JavaScript
-- TypeScript
-- Node.js
-- React
-- React Native
-- Expo
-- C#
-- .NET
-- Python
+ JavaScript | TypeScript | Node.js | React | React Native | Expo | C# .NET | Python
 
 ### Banco de Dados
-- Firebase
-- PostgreSQL
-- MySQL
+ Firebase | PostgreSQL | MySQL
 
 ### Infraestrutura
-- Windows Server
-- Linux
-- Microsoft 365
-- Active Directory
-- TCP/IP
-- DNS
-- VLAN
-- IPv6
-- OneDrive Empresarial
+ Windows Server | Linux | Microsoft 365 | Active Directory | TCP/IP | DNS | VLAN | IPv6 | OneDrive Empresarial
 
 ### DevOps & Ferramentas
  Git | GitHub | Docker | GitHub Actions | Grafana | Prometheus | PowerShell | Shell Script
