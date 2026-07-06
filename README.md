@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Full Stack | Infraestrutura de TI | Automação | Inteligência Artificial
 
-Sou estudante de Ciência da Computação e Técnico em Desenvolvimento de Sistemas, apaixonado por tecnologia, desenvolvimento de software e infraestrutura.
+Sou estudante de Ciência da Computação e tenho um Técnico em Desenvolvimento de Sistemas concluido, apaixonado por tecnologia, desenvolvimento de software e infraestrutura.
 
 Atualmente atuo como **Técnico de Suporte N1 - Deployment** na Penso Tecnologia e também como **Analista de Infraestrutura de TI** na Inovah Plast, desenvolvendo soluções para automação, monitoramento e sustentação de ambientes corporativos.
 
