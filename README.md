@@ -16,7 +16,7 @@ Meu objetivo é construir soluções modernas, escaláveis e inteligentes, unind
  JavaScript | TypeScript | Node.js | React | React Native | Expo | C# .NET | Python
 
 ### Banco de Dados
- Firebase | PostgreSQL | MySQL
+ Firebase | PostgreSQL | MySQL | AWS | Lambda
 
 ### Infraestrutura
  Windows Server | Linux | Microsoft 365 | Active Directory | TCP/IP | DNS | VLAN | IPv6 | OneDrive Empresarial
