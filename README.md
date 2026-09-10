@@ -44,14 +44,6 @@ Tenho interesse em construir soluções modernas, escaláveis e automatizadas, c
 
 `Linux` `Windows Server` `Active Directory` `Microsoft 365` `Grafana` `Prometheus` `Zabbix`
 
-### Automação
-
-`Python` `PowerShell` `Shell Script`
-
-### Redes
-
-`TCP/IP` `DNS` `DHCP` `VLAN` `IPv4` `IPv6` `VPN`
-
 ---
 
 # Atualmente
