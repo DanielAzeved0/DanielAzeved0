@@ -46,20 +46,6 @@ Tenho interesse em construir soluções modernas, escaláveis e automatizadas, c
 
 ---
 
-# Atualmente
-
-Buscando oportunidades em:
-
-- **Desenvolvimento Backend**
-- **Desenvolvimento Full Stack**
-- **Engenharia de Software**
-- **DevOps / SRE**
-- **Cloud**
-- **Automação**
-- **AI Engineering**
-
----
-
 # Contato
 
 [LinkedIn](https://www.linkedin.com/in/daniel-azevedo-403444321/)
