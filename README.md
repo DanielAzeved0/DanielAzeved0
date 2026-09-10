@@ -12,20 +12,6 @@ Tenho interesse em construir soluções modernas, escaláveis e automatizadas, c
 
 ---
 
-## O que eu faço
-
-- Desenvolvimento de aplicações **Full Stack e Backend**
-- Desenvolvimento e integração de **APIs**
-- Automação de processos e workflows
-- Integração com bancos de dados
-- Desenvolvimento de soluções com **Cloud**
-- Monitoramento e observabilidade
-- Desenvolvimento de ferramentas utilizando **IA e agentes**
-- Infraestrutura e ambientes Linux/Windows
-- Containerização e deploy com **Docker**
-
----
-
 ## Tecnologias
 
 ### Desenvolvimento
