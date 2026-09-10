@@ -40,10 +40,6 @@ Tenho interesse em construir soluções modernas, escaláveis e automatizadas, c
 
 `AWS` `AWS Lambda` `Oracle Cloud` `Docker` `GitHub Actions` `Git` `GitHub`
 
-### Infraestrutura & Observabilidade
-
-`Linux` `Windows Server` `Active Directory` `Microsoft 365` `Grafana` `Prometheus` `Zabbix`
-
 ---
 
 # Contato
