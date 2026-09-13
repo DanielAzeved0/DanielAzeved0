@@ -32,6 +32,4 @@ Tenho interesse em construir soluções modernas, escaláveis e automatizadas, c
 
 [LinkedIn](https://www.linkedin.com/in/daniel-azevedo-403444321/)
 
-[GitHub](https://github.com/DanielAzeved0)
-
 [Portfólio](https://portfolio-daniel-azevedo-q5qi.vercel.app/)
